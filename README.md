@@ -1,0 +1,2 @@
+# Gestiona_informacion_mediante_el_uso_de_software_en_linea
+Repositorio para practicas de la materia gestiona informacion
